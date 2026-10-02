@@ -6,7 +6,7 @@ class AboutUi extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color.fromARGB(255, 185, 219, 248),
+      // backgroundColor: const Color.fromARGB(255, 185, 219, 248),
       body: Stack(
         children: [
           Center(
